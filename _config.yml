@@ -9,111 +9,118 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Suman's musings"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-# breadcrumbs            : false # true, false (default)
+name                     : "Suman"
+description              : "My personal blog"
+url                      : "https://suman71.github.io"
+baseurl                  : ""
+repository               : "suman71/suman71.github.io"
+teaser                   : "/assets/images/post-teaser.png"
+  breadcrumbs            : true
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
+  provider               : "disqus"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "suman1971"
   discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+    server               : https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+  provider               : "facebook"
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
-staticman:
-  allowedFields          : # ['name', 'email', 'url', 'message']
-  branch                 : # "master"
-  commitMessage          : # "New comment."
-  filename               : # comment-{@timestamp}
-  format                 : # "yml"
-  moderation             : # true
-  path                   : # "/_data/comments/{options.slug}" (default)
-  requiredFields         : # ['name', 'email', 'message']
+    num_posts            : 5
+    colorscheme          : "light" (default), "dark"
+  provider               : "staticman"
+  staticman:
+  allowedFields          : ['name', 'email', 'url', 'message']
+  branch                 : "master"
+  commitMessage          : "New comment."
+  filename               : "comment-{@timestamp}"
+  format                 : "yml"
+  moderation             : true
+  path                   : "/_data/comments/{options.slug}" (default)
+  requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : # "md5"
+    email                : "md5"
   generatedFields:
     date:
-      type               : # "date"
+      type               : "date"
       options:
-        format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+        format           : "iso8601"
 reCaptcha:
-  siteKey                :
-  secret                 :
+  enabled                : true
+  siteKey                : "6LctjkAUAAAAABSZ5qDTien_PYUJovqWD959BQPc"
+  secret                 : "6LctjkAUAAAAAPHuNcEwOKIClWwWpmezjm9pgjrV"
 atom_feed:
-  path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
+  path                   : "http://feeds.feedburner.com/sumansmusings"
+search                   : true
+search_full_content      : true
 
 # SEO Related
 google_site_verification :
-bing_site_verification   :
-yandex_site_verification :
+bing_site_verification   : "74F3220FC04BEDD614F8A384B84D50FA"
+yandex_site_verification : "c0841594d1bf7f81"
 naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "oporazito"
 facebook:
-  username               :
+  username               : "suman1971"
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : "/assets/images/sumanlogo.png"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  name                   : # "Suman"
   links: # An array of links to social media profiles
-
+    - "https://twitter.com/oporazito"
+    - "https://facebook.com/suman1971"
+    - "https://instagram.com/oporazito"
+    - "https://www.linkedin.com/in/suman19"
+    - "https://plus.google.com/118364840166197656368"
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google-universal"
   google:
-    tracking_id          :
+    tracking_id          : "UA-112447738-1"
 
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
-  uri              :
-  home             : # null (default), "absolute or relative url to link to author home"
+  name             : "Suman"
+  avatar           : "/assets/images/sumanlogo.jpg"
+  bio              : "Hydrogeologist, Monitoring and Evaluation Expert, IT Person "
+  location         : "Bangladesh"
+  email            : suman.rubd@yahoo.com
+  uri              : "https://sumansmusings.github.io"
+  home             : null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "suman1971"
   foursquare       :
   github           :
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "oporazito"
   lastfm           :
-  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "https://www.linkedin.com/in/suman19"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :
+  twitter          : "oporazito"
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          : "https://www.youtube.com/channel/UCG9X2ksz9z3GTWwyFigUPGw"
 
 
 # Reading Files
@@ -183,7 +190,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Dhaka
 
 
 # Plugins (previously gems:)
