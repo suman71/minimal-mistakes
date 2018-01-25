@@ -96,7 +96,7 @@ author:
   bio              : "Hydrogeologist, Monitoring and Evaluation Expert, IT Person "
   location         : "Bangladesh"
   email            : suman.rubd@yahoo.com
-  uri              : "https://sumansmusings.github.io"
+  uri              : #"https://suman71.github.io"
   home             : null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
