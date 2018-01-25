@@ -77,10 +77,11 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # "Suman"
   links: # An array of links to social media profiles
-    - "https://twitter.com/oporazito"
+  
     - "https://facebook.com/suman1971"
-    - "https://instagram.com/oporazito"
     - "https://www.linkedin.com/in/suman19"
+    - "https://twitter.com/oporazito"
+    - "https://instagram.com/oporazito"
     - "https://plus.google.com/118364840166197656368"
 # Analytics
 analytics:
@@ -96,7 +97,7 @@ author:
   location         : "Bangladesh"
   email            : suman.rubd@yahoo.com
   uri              : #"https://suman71.github.io"
-  home             : "absolute"
+  home             : null
   bitbucket        :
   codepen          :
   dribbble         :
