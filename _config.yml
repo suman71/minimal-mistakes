@@ -88,7 +88,6 @@ analytics:
   google:
     tracking_id          : "UA-112447738-1"
 
-
 # Site Author
 author:
   name             : "Suman"
@@ -97,7 +96,7 @@ author:
   location         : "Bangladesh"
   email            : suman.rubd@yahoo.com
   uri              : #"https://suman71.github.io"
-  home             : null (default), "absolute or relative url to link to author home"
+  home             : null
   bitbucket        :
   codepen          :
   dribbble         :
