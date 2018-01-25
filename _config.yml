@@ -24,13 +24,13 @@ comments:
   disqus:
     shortname            : "suman1971"
   discourse:
-    server               : https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   provider               : "facebook"
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : 5
-    colorscheme          : "light" (default), "dark"
+    colorscheme          : "light"
   provider               : "staticman"
   staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
@@ -39,7 +39,7 @@ comments:
   filename               : "comment-{@timestamp}"
   format                 : "yml"
   moderation             : true
-  path                   : "/_data/comments/{options.slug}" (default)
+  path                   : "/_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
     email                : "md5"
