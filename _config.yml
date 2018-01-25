@@ -10,7 +10,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 title                    : "Suman's musings"
-title_separator          : "-"
+title_separator          : "|"
 name                     : "Suman"
 description              : "My personal blog"
 url                      : "https://suman71.github.io"
