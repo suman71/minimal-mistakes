@@ -1,0 +1,7 @@
+---
+layout: splash
+classes:
+  - landing
+  - dark-theme
+---
+<body class="layout--splash landing dark-theme">
