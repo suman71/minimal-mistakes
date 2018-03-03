@@ -1,10 +1,12 @@
 ---
-layout: post
-title: Public awareness must to protect water resources from pollution
-date: 2017-03-27 16:07
-author: iwrmbarind
-comments: true
-categories: [IWRM, Newspaper]
+title: "Public awareness must to protect water resources from pollution"
+last_modified_at: 2017-05-24T16:20:02-05:00
+layout: single
+categories:
+  - IWRM
+tags:
+  - IWRM
+  - News
 ---
 RAJSHAHI, March 22, 2017 (BSS)- Experts and others concerned at a post-rally discussion here today unequivocally called for creating public awareness for protecting the existing water resources from further pollution and contamination to safeguard human civilization and biodiversity.
 

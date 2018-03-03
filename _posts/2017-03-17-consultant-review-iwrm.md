@@ -2,13 +2,13 @@
 layout: single
 title: Consultant Review IWRM for the Barind Tract in Bangladesh
 date: 2017-03-17 17:32
-comments: true
 categories: 
 -IWRM
 Tags: 
 -4R
 -Consultant
 -IWRM
+comments: true
 ---
 
 Located in the world’s largest delta, Bangladesh is dominated by its water resource system. The Ganges, the Brahmaputra and the Meghna all flow through Bangladesh. The combined flow of the rivers makes it rank among the largest river systems of the world. Yet Bangladesh covers only 8% of the total catchment area. This raises difficulties in the planning and management of water resources (WR).
