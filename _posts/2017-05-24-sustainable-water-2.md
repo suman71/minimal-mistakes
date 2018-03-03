@@ -1,10 +1,14 @@
 ---
-layout: post
-title: Sustainable water resource management progressing fast in Barind area
-date: 2017-05-24 12:32
-author: iwrmbarind
+title: "Sustainable water resource management progressing fast in Barind area"
+last_modified_at: 2017-05-24T16:20:02-05:00
+layout: single
+author_profile: true
+categories:
+  - IWRM
+tags:
+  - IWRM
+  - News
 comments: true
-categories: [IWRM, Newspaper]
 ---
 RAJSHAHI, May 06 (BSS): An initiative has been taken to promote integrated water resource management in the Barind area in order to reduce its existing water-stressed condition.
 
