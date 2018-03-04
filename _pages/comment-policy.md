@@ -3,6 +3,7 @@ permalink: /comment-policy/
 title: "Comment Policy"
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 last_modified_at: 2018-05-03T11:22:24-05:00
+comments: true
 ---
 
 We want you to feel at home when you post a comment on Grist. We want everyone to feel at home posting comments on Grist. We don’t know what your home is like, but we know how we expect people to behave when they visit ours. That’s why we reserve the right to delete comments and ban users as needed to keep the comment threads here civil and substantive.
