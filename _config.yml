@@ -19,7 +19,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus"
   disqus:
-    shortname            : "suman1971"
+    shortname            : "suman19"
   provider               : "facebook"
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
