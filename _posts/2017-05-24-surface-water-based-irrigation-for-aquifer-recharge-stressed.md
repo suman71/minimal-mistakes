@@ -1,15 +1,19 @@
 ---
-layout: single
 title: "Surface water-based irrigation for aquifer recharge stressed"
-date: 2017-05-24 12:21
+excerpt_separator: "<!--more-->"
 comments: true
-categories: 
--IWRM
--Newspaper
+categories:
+  - IWRM
+  - News
+tags:
+  - IWRM
+  - News
 ---
+
 BSS, Rajshahi-
 More surface water-based irrigation projects can be vital means of proportional aquifer recharge as excessive use of groundwater affecting agriculture in the drought-prone area.
 In the wake of inadequate aquifer recharge, groundwater level is declining alarmingly in the high Barind tract posing a serious threat to its farming sector besides living and livelihood condition.
+<!--more-->
 Quoting his research findings, Prof Chowdhury Sarwar Jahan said areas of 18 Union parishad (UP) and three pourasabhas in Rajshahi and Chapainawabganj districts have been identified as water-crisis hit regions.
 Of those, condition of Badhair UP in Tanore Upazila and Jhilim UP in
 Chapainawabganj Sadar upazila is worst, added Prof Chowdhury from Department of Geology and Mining in Rajshahi University.
