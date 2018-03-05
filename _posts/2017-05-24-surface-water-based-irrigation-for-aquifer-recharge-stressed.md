@@ -34,5 +34,5 @@ Step should be taken to excavate and re-excavate all the existing derelict ponds
 He, however, said underground natural reservoirs are not replenishing due to reduced rainfall. Lower rainfall, significant drainage avulsion,cultivation pattern, withdrawal of more groundwater than its recharge and deforestation, depletion of groundwater and soil moisture in Barind area caused the groundwater drought risk.
 He called for exploring the groundwater potential below 80-meter to bring more area under irrigation for its sustainable use.
 
-First published on [BSS News](http://bssnews.net/news_image/2017-05-14_bss-03_265664.jpg/), [Daily New Nation](http://thedailynewnation.com/news/133833/surface-water-based-irrigation--for-aquifer-recharge-stressed/),
+First published on [BSS News](http://bssnews.net/newsDetails.php?cat=0&id=662921&date=2017-05-14/), [Daily New Nation](http://thedailynewnation.com/news/133833/surface-water-based-irrigation--for-aquifer-recharge-stressed/),
 [Daily Sun](http://www.daily-sun.com/printversion/details/226457/Surface-waterbased-irrigation-vital-for-aquifer-recharge:-Experts/) and [The Bangladesh Today](http://thebangladeshtoday.com/2017/05/surface-water-based-irrigation-vital-aquifer-recharge-experts/)
