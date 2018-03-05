@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 
 title: "Consultant Review IWRM for the Barind Tract in Bangladesh"
 ---

@@ -1,5 +1,5 @@
 ---
-layout:	post
+layout:	single
 title:	"Steps taken to integrated water resource management"
 last_modified_at: 2018-03-03T16:20:02-05:00
 categories:

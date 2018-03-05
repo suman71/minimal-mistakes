@@ -1,7 +1,7 @@
 ---
 title: "Public awareness must to protect water resources from pollution"
 last_modified_at: 2017-05-24T16:20:02-05:00
-layout: post
+layout: single
 categories:
   - IWRM
 tags:
