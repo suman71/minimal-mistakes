@@ -13,7 +13,6 @@ tags:
 BSS, Rajshahi-
 More surface water-based irrigation projects can be vital means of proportional aquifer recharge as excessive use of groundwater affecting agriculture in the drought-prone area.
 In the wake of inadequate aquifer recharge, groundwater level is declining alarmingly in the high Barind tract posing a serious threat to its farming sector besides living and livelihood condition.
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/csjahan.jpg" alt="CSJahan">
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/csjahan.jpg){: .align-right}
 <!--more-->
 Quoting his research findings, Prof Chowdhury Sarwar Jahan said areas of 18 Union parishad (UP) and three pourasabhas in Rajshahi and Chapainawabganj districts have been identified as water-crisis hit regions.
