@@ -10,7 +10,8 @@ tags:
   - News
 ---
 
-BSS, Rajshahi-
+BSS, Rajshahi: 
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/csjahan.jpg){: .align-right}
 More surface water-based irrigation projects can be vital means of proportional aquifer recharge as excessive use of groundwater affecting agriculture in the drought-prone area.
 In the wake of inadequate aquifer recharge, groundwater level is declining alarmingly in the high Barind tract posing a serious threat to its farming sector besides living and livelihood condition.
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/csjahan.jpg){: .align-right}
