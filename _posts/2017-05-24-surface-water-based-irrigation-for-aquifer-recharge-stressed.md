@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Surface water-based irrigation for aquifer recharge stressed"
 excerpt_separator: "<!--more-->"
 comments: true
