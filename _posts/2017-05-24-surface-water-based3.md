@@ -7,8 +7,7 @@ categories:
 -IWRM
 -Newspaper
 ---
-<div class="news_text">
-<div style="text-align:justify;" align="justify">BSS, Rajshahi :
+BSS, Rajshahi-
 More surface water-based irrigation projects can be vital means of proportional aquifer recharge as excessive use of groundwater affecting agriculture in the drought-prone area.
 In the wake of inadequate aquifer recharge, groundwater level is declining alarmingly in the high Barind tract posing a serious threat to its farming sector besides living and livelihood condition.
 Quoting his research findings, Prof Chowdhury Sarwar Jahan said areas of 18 Union parishad (UP) and three pourasabhas in Rajshahi and Chapainawabganj districts have been identified as water-crisis hit regions.
@@ -28,7 +27,7 @@ The measures can be effective means of proper aquifer recharge.
 Prof Sarwar Chowdhury attributed that the region scored significant
 progress in the crop production sector following expansion of irrigation facilities along with supplying water from the re-excavated canals and ponds.
 He, however, said underground natural reservoirs are not replenishing due to reduced rainfall. Lower rainfall, significant drainage avulsion,cultivation pattern, withdrawal of more groundwater than its recharge and deforestation, depletion of groundwater and soil moisture in Barind area caused the groundwater drought risk.
-He called for exploring the groundwater potential below 80-meter to bring more area under irrigation for its sustainable use.</div>
-<div style="text-align:justify;" align="justify"><a href="http://thedailynewnation.com/news/133833/surface-water-based-irrigation--for-aquifer-recharge-stressed.html" target="_blank" rel="noopener noreferrer">Link1 </a></div>
-<div style="text-align:justify;" align="justify"><a href="http://www.daily-sun.com/printversion/details/226457/Surface-waterbased-irrigation-vital-for-aquifer-recharge:-Experts" target="_blank" rel="noopener noreferrer">Link2</a></div>
-</div>
+He called for exploring the groundwater potential below 80-meter to bring more area under irrigation for its sustainable use.
+
+<a href="http://thedailynewnation.com/news/133833/surface-water-based-irrigation--for-aquifer-recharge-stressed.html" target="_blank" rel="noopener noreferrer">Link1 </a>
+<a href="http://www.daily-sun.com/printversion/details/226457/Surface-waterbased-irrigation-vital-for-aquifer-recharge:-Experts" target="_blank" rel="noopener noreferrer">Link2</a>
