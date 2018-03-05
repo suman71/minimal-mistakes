@@ -1,10 +1,11 @@
 ---
-layout: post
-title: Surface water-based irrigation for aquifer recharge stressed
+layout: single
+title: "Surface water-based irrigation for aquifer recharge stressed"
 date: 2017-05-24 12:21
-author: iwrmbarind
 comments: true
-categories: [IWRM, Newspaper]
+categories: 
+-IWRM
+-Newspaper
 ---
 <div class="news_text">
 <div style="text-align:justify;" align="justify">BSS, Rajshahi :
