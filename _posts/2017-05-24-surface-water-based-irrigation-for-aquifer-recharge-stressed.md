@@ -8,8 +8,6 @@ categories:
 tags:
   - IWRM
   - News
-thedailynewnation: http://thedailynewnation.com/news/133833/surface-water-based-irrigation--for-aquifer-recharge-stressed/
-dailysun: http://www.daily-sun.com/printversion/details/226457/Surface-waterbased-irrigation-vital-for-aquifer-recharge:-Experts/
 ---
 
 BSS, Rajshahi-
@@ -35,4 +33,6 @@ progress in the crop production sector following expansion of irrigation facilit
 He, however, said underground natural reservoirs are not replenishing due to reduced rainfall. Lower rainfall, significant drainage avulsion,cultivation pattern, withdrawal of more groundwater than its recharge and deforestation, depletion of groundwater and soil moisture in Barind area caused the groundwater drought risk.
 He called for exploring the groundwater potential below 80-meter to bring more area under irrigation for its sustainable use.
 
-First published on [Daily New Nation][thedailynewnation] and [Daily Sun][dailysun]
+First published on [Daily New Nation](thedailynewnation) and [Daily Sun](dailysun)
+thedailynewnation: http://thedailynewnation.com/news/133833/surface-water-based-irrigation--for-aquifer-recharge-stressed/
+dailysun: http://www.daily-sun.com/printversion/details/226457/Surface-waterbased-irrigation-vital-for-aquifer-recharge:-Experts/
