@@ -5,10 +5,9 @@ layout: single
 author_profile: true
 excerpt:"An initiative has been taken to promote integrated water resource management in the Barind area in order to reduce its existing water-stressed condition."
 header:
-  teaser: ({{ site.url }}{{ site.baseurl }}/assets/images/Baliadanga_drain.JPG)
-  overlay_image: /assets/images/Baliadanga_drain.JPG
-  og_image: /assets/images/Baliadanga_drain.JPG
-  caption: "Photo credit: [**Suman**](#)"
+  teaser: ({{ site.url }}{{ site.baseurl }}/assets/images/Baliadanga_drain.jpg)
+  overlay_image: /assets/images/Baliadanga_drain.jpg
+  og_image: /assets/images/Baliadanga_drain.jpg
   cta_url: "#"
 categories:
   - IWRM
