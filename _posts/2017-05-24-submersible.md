@@ -9,7 +9,9 @@ Tags:
 -News
 -IWRM
 ---
-RAJSHAHI, May 20 (BSS): Some 5,880 drought hit-families including 5,417 ethnic minorities ones have been brought under safe drinking water source through commissioning of 95 submersible pumps in the high Barind tract.
+### RAJSHAHI, May 20 (BSS): 
+
+Some 5,880 drought hit-families including 5,417 ethnic minorities ones have been brought under safe drinking water source through commissioning of 95 submersible pumps in the high Barind tract.
 
 The pumps along with 30,027 feet pipelines were commissioned with intervention of 'Integrated Water Resource Management (IWRM)' Project benefiting 26,463 people including 13,103 women in 135 remote villages.
 
@@ -37,4 +39,4 @@ Ataur Rahman, chairman of Badhair union, said the water-deprived poor and underp
 
 As a whole, the project has created positive impact among the beneficiary communities by dint of making the drinking water amenities available to their doorsteps, he mentioned.
 
-<a href="http://print.thefinancialexpress-bd.com/2017/05/21/172999" target="_blank" rel="noopener noreferrer">Link</a>
+[The Financial Express](http://print.thefinancialexpress-bd.com/2017/05/21/172999/)

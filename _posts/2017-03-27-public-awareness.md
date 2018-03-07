@@ -8,7 +8,9 @@ tags:
   - IWRM
   - News
 ---
-RAJSHAHI, March 22, 2017 (BSS)- Experts and others concerned at a post-rally discussion here today unequivocally called for creating public awareness for protecting the existing water resources from further pollution and contamination to safeguard human civilization and biodiversity.
+### RAJSHAHI, March 22, 2017 (BSS)
+
+Experts and others concerned at a post-rally discussion here today unequivocally called for creating public awareness for protecting the existing water resources from further pollution and contamination to safeguard human civilization and biodiversity.
 
 They viewed the water resources in the region including its vast Barind tract need to be protected and conserved and need-oriented water rules and policies have become indispensable to this end.
 

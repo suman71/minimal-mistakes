@@ -10,7 +10,9 @@ tags:
   - News
 comments: true
 ---
-RAJSHAHI, May 06 (BSS): An initiative has been taken to promote integrated water resource management in the Barind area in order to reduce its existing water-stressed condition.
+### RAJSHAHI, May 06 (BSS): 
+
+An initiative has been taken to promote integrated water resource management in the Barind area in order to reduce its existing water-stressed condition.
 
 Swiss Red Cross and DASCOH Foundation have jointly started implementation works of 'Integrated Water Resource Management (IWRM)' Project for sustainable management of existing water resources in Barind area.
 
@@ -39,5 +41,3 @@ Similarly, the project works for building strong relation between people, local 
 Kakonhat municipal Mayor Abdul Mazid said the water-deprived poor and underprivileged communities in the water-crisis Barind area are getting safe drinking water privileges in the present model.
 
 As a whole, the project has created positive impact among the local communities as a result of concerted initiative and participation in addition to judicious uses of existing resources, he mentioned.
-
-
