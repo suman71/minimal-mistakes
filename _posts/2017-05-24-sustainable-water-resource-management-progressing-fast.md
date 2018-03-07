@@ -21,8 +21,6 @@ comments: true
 
 An initiative has been taken to promote integrated water resource management in the Barind area in order to reduce its existing water-stressed condition.
 
-{% raw %}<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Baliadanga_drain.JPG" alt="">{% endraw %}
-
 Swiss Red Cross and DASCOH Foundation have jointly started implementation works of 'Integrated Water Resource Management (IWRM)' Project for sustainable management of existing water resources in Barind area.
 
 The project is being implemented in drought and arsenic affected 35 unions and four municipalities under Rajshahi and Chapainawabganj districts since 2015 with financial support of SDC. Under the project, Water Resource Planning Organisation (WARPO) has been working for formulating water related policies and time-fitting rules and regulations as state part.
