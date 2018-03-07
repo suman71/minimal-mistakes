@@ -40,6 +40,4 @@ Kakonhat municipal Mayor Abdul Mazid said the water-deprived poor and underprivi
 
 As a whole, the project has created positive impact among the local communities as a result of concerted initiative and participation in addition to judicious uses of existing resources, he mentioned.
 
-http://print.thefinancialexpress-bd.com/2017/05/07/171817
 
-http://print.thefinancialexpress-bd.com/2017/05/07/171817/print

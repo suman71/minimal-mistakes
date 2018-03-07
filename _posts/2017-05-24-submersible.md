@@ -4,9 +4,9 @@ title: "Submersible pumps ensure safe water to drought-hit families in Barind re
 date: 2017-05-24 12:10
 comments: true
 categories: 
--iwrm
+-IWRM
 Tags:
--Newspaper
+-News
 -IWRM
 ---
 RAJSHAHI, May 20 (BSS): Some 5,880 drought hit-families including 5,417 ethnic minorities ones have been brought under safe drinking water source through commissioning of 95 submersible pumps in the high Barind tract.
