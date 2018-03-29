@@ -3,12 +3,6 @@ title: "Steps taken to integrated water resource management"
 last_modified_at: 2018-03-03T16:20:02-05:00
 excerpt: "The present government is committed to integrated water resources management in the vast Barind tract for improving living and livelihood condition its population, reports BSS."
 layout: single
-header:
-  teaser: ({{ site.url }}{{ site.baseurl }}/assets/images/Bangabari-checkdam.jpg)
-  overlay_image: /assets/images/Bangabari-checkdam.jpg
-  og_image: /assets/images/Bangabari-checkdam.jpg
-  caption: "Photo credit: [**Suman**](#)"
-  cta_url: "#"
 categories:
   - IWRM
 tags:

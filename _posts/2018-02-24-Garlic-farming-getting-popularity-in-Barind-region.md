@@ -4,7 +4,6 @@ last_modified_at: 2018-03-25T16:20:02-05:00
 excerpt: "Direct-seeded garlic cultivation is getting popularity among farmers in Rajshahi region, including its vast Barind area, supplementing the efforts towards reducing pressure on soil and underground water."
 layout: single
 header:
-  teaser: ({{ site.url }}{{ site.baseurl }}/assets/images/Garlic.jpg)
   overlay_image: /assets/images/Garlic.jpg
   og_image: /assets/images/Garlic.jpg
   caption: "Photo credit: [**Collected**](#)"
@@ -45,10 +44,4 @@ Mustafizur Rahman, Additional Director of Department of Agriculture Extension (D
 
 Now, he said, the farmers are passing very busy days in garlic cultivation and they are expecting bumper production of garlic this year due to favourable weather. 
 
-Published in [Newstoday]
-(http://www.newstoday.com.bd/index.php?option=details&news_id=2493505&date=2018-02-25)
-[BSS News](http://www.bssnews.net/newsDetails.php?cat=4&id=725432&date=2018-02-24#)
-[New Nation](http://thedailynewnation.com/news/166028/garlic-farming-gains-popularity-in-barind-tract.html)
-[Daily Sun](http://www.daily-sun.com/home/printnews/291258)
-[Daily Sun] (http://www.daily-sun.com/printversion/details/291258/Garlic-farming-on-the-risein-Barind-region)
-[Daily Asian Age](https://dailyasianage.com/news/109789/garlic-farming-getting-popularity)
+Published in [Newstoday](http://www.newstoday.com.bd/index.php?option=details&news_id=2493505&date=2018-02-25),[BSS News](http://www.bssnews.net/newsDetails.php?cat=4&id=725432&date=2018-02-24#)[New Nation](http://thedailynewnation.com/news/166028/garlic-farming-gains-popularity-in-barind-tract.html),[Daily Sun](http://www.daily-sun.com/home/printnews/291258),[Daily Asian Age](https://dailyasianage.com/news/109789/garlic-farming-getting-popularity)
