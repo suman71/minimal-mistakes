@@ -1,7 +1,6 @@
 ---
-title: "Sustainable water resource management progressing fast in Barind area"
-last_modified_at: 2017-05-24T16:20:02-05:00
 layout: single
+title: "Sustainable water resource management progressing fast in Barind area"
 author_profile: true
 excerpt:"An initiative has been taken to promote integrated water resource management in the Barind area in order to reduce its existing water-stressed condition."
 header:
@@ -9,12 +8,12 @@ header:
   overlay_image: /assets/images/Baliadanga_drain.jpg
   og_image: /assets/images/Baliadanga_drain.jpg
   cta_url: "#"
+comments: true
 categories:
   - IWRM
 tags:
   - IWRM
   - News
-comments: true
 ---
 ### RAJSHAHI, May 06 (BSS): 
 
