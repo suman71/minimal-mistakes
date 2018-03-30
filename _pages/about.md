@@ -2,9 +2,8 @@
 permalink: /about/
 title: "Suman Résumé"
 header:
-  overlay_image: assets/images/sampic.jpg
+  image: /assets/images/sampic.jpg
   caption: "Photo credit: [**DASCOH**](http://www.dascoh.org)"
-  cta_url: "https://suman71.github.io"
 tags:
   - table of contents
 toc: true
