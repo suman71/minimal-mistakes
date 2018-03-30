@@ -2,7 +2,7 @@
 permalink: /about/
 title: "Suman Résumé"
 header:
-  image: /assets/images/sampic.jpg
+  image: /assets/images/sumanpresentation.jpg
   caption: "Photo credit: [**DASCOH**](http://www.dascoh.org)"
 tags:
   - Suman
