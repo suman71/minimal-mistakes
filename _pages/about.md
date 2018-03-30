@@ -5,7 +5,7 @@ header:
   image: /assets/images/sampic.jpg
   caption: "Photo credit: [**DASCOH**](http://www.dascoh.org)"
 tags:
-  - table of contents
+  - Suman
 toc: true
 toc_label: "Contents"
 toc_icon: "heart"
