@@ -2,7 +2,7 @@
 permalink: /about/
 title: "Suman Résumé"
 header:
-  image: assets/images/SumanPresentation.jpg
+  image: assets/images/sumanpresentation.jpg
   caption: "Photo credit: [**DASCOH**](http://www.dascoh.org)"
 tags:
   - table of contents
@@ -23,7 +23,9 @@ toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
 
 ## HTML Elements
 
-Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
+Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs. 
+
+text text 
 
 ## Body text
 
