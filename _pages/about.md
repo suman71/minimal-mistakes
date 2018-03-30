@@ -11,21 +11,19 @@ toc_label: "Contents"
 toc_icon: "heart"
 ---
 
-Enable table of contents on post or page by adding `toc: true` to its YAML Front Matter. The title and icon can also be changed with:
+## Personal Information
+ 	
+|:--------|:-------:|
+| First name: | Md. Suman    |
+| Last name:   | Miah   |
+{: rules="groups"}
 
-```yaml
----
-toc: true
-toc_label: "Unique Title"
-toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
----
-```
-
-## HTML Elements
-
-Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs. 
-
-text text 
+### Mailing address 
+Address: 	DASCOH Foundation, Lutheran Mission Complex, Dingadoba, Rajshahi 6205 Bangladesh
+Country: 	Bangladesh
+District: 	Rajshahi
+Thana: 	Rajpara Thana
+Post code: 	6201 
 
 ## Body text
 
