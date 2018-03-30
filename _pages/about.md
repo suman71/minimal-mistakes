@@ -1,9 +1,9 @@
 ---
 permalink: /about/
-title: "Layout: Post with Table Of Contents"
+title: "Suman Résumé"
 header:
-  image: assets/images/post-teaser.png
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  image: assets/images/SumanPresentation.jpg
+  caption: "Photo credit: [**DASCOH**](http://www.dascoh.org)"
 tags:
   - table of contents
 toc: true
