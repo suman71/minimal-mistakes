@@ -13,9 +13,8 @@ toc_icon: "heart"
 
 ## Personal Information
  	
-|:--------|:-------:|
-| First name: | Md. Suman    |
-| Last name:   | Miah   |
+| First name:|Md. Suman|
+| Last name: |Miah     |
 {: rules="groups"}
 
 ### Mailing address 
