@@ -3,8 +3,6 @@ layout: single
 title: "Submersible pumps make 5,880 drought-hit families happy"
 excerpt_separator: "<!--more-->"
 comments: true
-header:
-  teaser: "http://thedailynewnation.com/library/1495294019_9.jpg"
 categories:
   - IWRM
 tags:

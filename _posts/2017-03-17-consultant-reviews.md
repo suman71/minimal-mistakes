@@ -26,4 +26,4 @@ Tonkin + Taylor has been engaged as a consultant to assist in the project to-
 	<li> Recommend cost effective and economically efficient 4R-aligned (reduction of over-abstraction and water pollution; reuse of rainwater; recycling of water resources; restoration of water supply) water measures, and assess their comparative advantages and disadvantages from social, financial and technical perspectives.</li>
 	<li>Examine the incentive based regulatory system developed by the project and recommend water management practices in respect to CCA and DRR.</li>
 </ul>	
-[The review was published here](https://www.linkedin.com/pulse/integrated-water-resource-management-iwrm-barind-tract-fakhruddin/)
+The review was published [here](https://www.linkedin.com/pulse/integrated-water-resource-management-iwrm-barind-tract-fakhruddin/)

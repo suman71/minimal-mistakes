@@ -39,4 +39,4 @@ Ataur Rahman, chairman of Badhair union, said the water-deprived poor and underp
 
 As a whole, the project has created positive impact among the beneficiary communities by dint of making the drinking water amenities available to their doorsteps, he mentioned.
 
-[The Financial Express](http://print.thefinancialexpress-bd.com/2017/05/21/172999/)
+Published in [The Financial Express](http://print.thefinancialexpress-bd.com/2017/05/21/172999/)
