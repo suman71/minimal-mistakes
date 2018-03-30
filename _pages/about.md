@@ -1,4 +1,5 @@
 ---
+permalink: /about/
 title: "Layout: Post with Table Of Contents"
 header:
   image: assets/images/post-teaser.png
