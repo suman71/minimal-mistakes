@@ -9,8 +9,6 @@ tags:
   - IWRM
 last_modified_at: 2017-05-24T16:20:02-05:00
 ---
-http://thedailynewnation.com/library/1495294019_9.jpg
-
 ### BSS, Rajshahi:
 
 Some 5,880 drought hit-families including 5,417 ethnic minorities ones have been brought under safe drinking water source through commissioning of 95 submersible pumps in the high Barind tract.
