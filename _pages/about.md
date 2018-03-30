@@ -8,7 +8,7 @@ header:
 tags:
   - table of contents
 toc: true
-toc_label: "Unique Title"
+toc_label: "Contents"
 toc_icon: "heart"
 ---
 
