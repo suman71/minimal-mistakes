@@ -1,7 +1,5 @@
 ---
 title: "River water irrigation gains popularity among Barind farmer"
-last_modified_at: 2018-03-08T16:20:02-05:00
-excerpt: "The present government is committed to integrated water resources management in the vast Barind tract for improving living and livelihood condition its population, reports BSS."
 layout: single
 categories:
   - IWRM

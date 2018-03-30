@@ -1,21 +1,16 @@
 ---
 title: "Maize cultivation brings boon for Rajshahi farmers"
-last_modified_at: 2018-03-030T16:20:02-05:00
-excerpt: "Many people are seen humming towards maize farming as it has been giving them better yield and lucrative market price in the region including its vast Barind tract for the last couple of years, reports BSS."
 layout: single
-header:
-  teaser: ({{ site.url }}{{ site.baseurl }}/assets/images/Maize.jpg)
-  overlay_image: /assets/images/Maize.jpg
-  og_image: /assets/images/Maize.jpg
-  caption: "Photo credit: [**Collected**](#)"
-  cta_url: "#"
 categories:
   - IWRM
 tags:
   - IWRM
   - News
 ---
-RAJSHAHI: Many people are seen humming towards maize farming as it has been giving them better yield and lucrative market price in the region including its vast Barind tract for the last couple of years, reports BSS.
+RAJSHAHI: 
+
+Many people are seen humming towards maize farming as it has been giving them better yield and lucrative market price in the region including its vast Barind tract for the last couple of years, reports BSS.
+
 Nomanul Islam, a farmer of Gogram village in Godagari Upazila, has cultivated maize on one and half bighas of land during the current season. He along with many other fellow farmers expects better yield as suitable weather prevails here now.
 “I got 16 to 18 mounds yield from per bigha of land and sold at Taka 550 to 600 per mound in last harvesting season,” said Islam.
 Dr Shakhawat Hossain, Senior Scientific Officer of Bangladesh Agriculture Research Institute (BARI), told BSS that maize cultivation both in rabi and kharip seasons in the region has been increasing gradually as the farmers are showing more interest in this crop cultivation.
