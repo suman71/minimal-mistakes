@@ -1,4 +1,5 @@
 ---
+permalink: /about/
 title: "Suman Résumé"
 header:
   image: assets/images/SumanPresentation.jpg
