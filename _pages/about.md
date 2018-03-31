@@ -46,7 +46,7 @@ toc_icon: "heart"
 Medium of Instruction: [English](#)
 {: .notice--info}
 * Post Graduate Diploma in Human Resource Management (PGDHRM), Institute of Personnel Management, Bangladesh.
-	* Specialization: Fundamental of Management, Human Resource Management, Labor Economics, Industrial Psychology, Labor  Law, Industrial Relations, Industrial Safety, Labor Welfare
+	* _Specialization_: Fundamental of Management, Human Resource Management, Labor Economics, Industrial Psychology, Labor  Law, Industrial Relations, Industrial Safety, Labor Welfare
 	* Awarded: Ongoing
 * Master of Science (MS) in Geology and Mining, University of Rajshahi, Bangladesh.
 	* Specialization: Water Resource Management, Geo hazard, Disaster and Environmental Management
