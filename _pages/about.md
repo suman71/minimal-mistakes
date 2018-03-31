@@ -19,6 +19,7 @@ toc_icon: "heart"
 
 ### Address
 
+
 Mailing Address | Rajshahi
 ------------ | -------------
 Address: | DASCOH Foundation, Lutheran Mission Complex, Dingadoba, Rajshahi 6205 Bangladesh
@@ -29,9 +30,6 @@ Post code: | 6201
 
 Permanent Address | Rangpur
 ------------ | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
-
 
 ## Body text
 
