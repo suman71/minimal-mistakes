@@ -63,8 +63,9 @@ Medium of Instruction: [English](#)
 	* _Specialization_: Physics, Chemistry, Higher Mathematics, English
 	* _Awarded_: 2005 
 
-### Thesis/Project/Internship/Dissertation
-* Project Title: _Study of Groundwater Potentiality in the Rajshahi University campus Using Geoelectric Resistivity Survey,_   B.Sc (Honours) Part- IV, University of Rajshahi, Rajshahi
-* Project Title:_Geological field report on Jaintapur & Adjacent Areas, Sylhet, Bangladesh,_ B.Sc (Honours) Part-III, University of Rajshahi
-* Project Title:_Geological fields report on the Sitakund Anticline. (Bariyadhala to Barabkund) Sitakund, Chittagong, Bangladesh,_ Honours Part-II, University of Rajshahi
-* Internship Title:_A Report on Inspection of Titas well no- 27 Drilling Process, Brahmanbaria, Bangladesh,_ MS Report, University of Rajshahi
+### Project/Internship
+* Internship Title: _A Report on Inspection of Titas well no- 27 Drilling Process, Brahmanbaria, Bangladesh,_ (2012), MS Report, University of Rajshahi
+* Project Title: _Study of Groundwater Potentiality in the Rajshahi University campus Using Geoelectric Resistivity Survey,_   (2011), B.Sc (Honours) Part- IV, University of Rajshahi, Rajshahi
+* Project Title: _Geological field report on Jaintapur & Adjacent Areas, Sylhet, Bangladesh,_ (2010), B.Sc (Honours) Part-III, University of Rajshahi
+* Project Title: _Geological fields report on the Sitakund Anticline. (Bariyadhala to Barabkund) Sitakund, Chittagong, Bangladesh,_ (2009), Honours Part-II, University of Rajshahi
+
