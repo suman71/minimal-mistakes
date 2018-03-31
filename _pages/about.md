@@ -42,7 +42,15 @@ toc_icon: "heart"
 |Thana: 	       |Rangpur Sadar |
 |Post code:        |5400          |
 
-## Body text
+## Academic Qualification
+
+|Level of Education|Name of Degree | Educational Institue   | Passing Year | Discipline | Specialization |
+|----------------- | -------       |----------------------- | -------------|----------- | -------------- |
+|Masters 		  |MS 		    | University of Rajshahi | 2012 	    | Geology and Mining | Water Resource Management, Geo hazard, Disaster and Environmental Management| 
+|Bachelors 		  |B.Sc(Hons.)    | University of Rajshahi | 2011 	 	| Geology and Mining | Physical, Historical Geology, Geological Mapping, Mineralogy, Stratigraphy, Geophysics, Hydrogeology, Petroleum, Mining, Remote sensing & GIS |
+|H.S.C             |Higher Secondary School Certificate | Rangpur Govt. College | 2007	| Science | Physics, Chemistry, mathematics, English| 
+|S.S.C             |Secondary School Certificate | Bir Uttam Shaheed Samad High School, Rangpur Cantonment | 2005 | Science  | Physics, Chemistry, Higher mathematics, English|
+
 
 Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
 
