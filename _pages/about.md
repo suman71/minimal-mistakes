@@ -19,17 +19,21 @@ toc_icon: "heart"
 
 ### Address
 
-|Mailing Address | Rajshahi                 												      |
-|--------------- | -------------------------------------------------------------------------------|
-|Address: 		 |DASCOH Foundation, Lutheran Mission Complex, Dingadoba, Rajshahi 6205 Bangladesh|
-|Country: 		 |Bangladesh																	  |
-|District: 	   	 |Rajshahi																		  |
-|Thana: 	     |Rajpara Thana																	  |
-|Post code:      |6201 																		      |
+|Mailing Address | Rajshahi                 							 |
+|--------------- | ------------------------------------------------------|
+|Address: 		 |DASCOH Foundation, Lutheran Mission Complex, Dingadoba |
+|Country: 		 |Bangladesh											 |
+|District: 	   	 |Rajshahi												 |
+|Thana: 	     |Rajpara Thana											 |
+|Post code:      |6201 													 |
 
-|Permanent Address     | Rangpur|
-|--------------------- | -------|
-|||
+|Permanent Address | Rangpur      |
+|----------------- | -------      |
+|Address: 		   |Rangpur       |
+|Country: 		   |Bangladesh    |
+|District: 	   	   |Rangpur       |
+|Thana: 	       |Rangpur Sadar |
+|Post code:        |5400          |
 
 ## Body text
 
