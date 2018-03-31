@@ -26,7 +26,10 @@ toc_icon: "heart"
 |District: 	|Rajshahi|
 |Thana: 	|Rajpara Thana|
 |Post code: |6201 	|
-|Permanent Address | Rangpur|
+{: rules="groups"}
+
+|Permanent Address  | Rangpur|
+|:--------|:-------:|
 {: rules="groups"}
 
 ## Body text
