@@ -42,7 +42,18 @@ toc_icon: "heart"
 |Thana: 	       |Rangpur Sadar |
 |Post code:        |5400          |
 
-## Academic Qualification
+## EDUCATION ACHIEVEMENTS 			(MEDIUM OF INSTRUCTION: [ENGLISH]) {: .notice--info}
+	
+	* Master of Science (MS) in Geology and Mining, University of Rajshahi, Bangladesh.
+		* Awarded: 2012 (Examination held in 2014, Result Published in 2015)
+	* Bachelor of Science (B.Sc. Hon’s) in Geology and Mining, University of Rajshahi, Bangladesh
+		* Awarded: 2011 (Examination held in 2012)
+	* H.S.C at Rangpur Govt. College, Rangpur, Rajshahi Board, Bangladesh
+		* Group: Science
+		* Awarded: 2007
+	* S.S.C at Bir Uttam Shaheed Samad High School, Rangpur Cant., Rajshahi Board, Bangladesh
+		* Group: Science
+		* Awarded: 2005 
 
 |Level of Education|Name of Degree | Educational Institue   | Passing Year | Discipline | Specialization |
 |----------------- | -------       |----------------------- | -------------|----------- | -------------- |
