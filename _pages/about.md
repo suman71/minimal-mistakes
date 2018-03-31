@@ -31,6 +31,13 @@ toc_icon: "heart"
 Permanent Address | Rangpur
 ------------ | -------------
 
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
+
 ## Body text
 
 Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
