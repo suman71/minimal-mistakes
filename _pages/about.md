@@ -10,6 +10,7 @@ toc: true
 toc_label: "Contents"
 toc_icon: "heart"
 ---
+
 ## Personal Information
 
 |First name:        | Md. Suman            |
@@ -21,7 +22,9 @@ toc_icon: "heart"
 |Date of birth:     | 11 December 1989     |
 |E-Mail Address:    | suman.rubd@yahoo.com |
 {: rules="groups"}
+
 ### Address
+
 |Mailing Address | Rajshahi                 							 |
 |--------------- | ------------------------------------------------------|
 |Address: 		 |DASCOH Foundation, Lutheran Mission Complex, Dingadoba |
@@ -30,6 +33,7 @@ toc_icon: "heart"
 |Thana: 	     |Rajpara Thana											 |
 |Post code:      |6201 													 |
 |E-Mail Address: |suman@dascoh.org										 | 
+
 |Permanent Address | Rangpur      |
 |----------------- | -------      |
 |Address: 		   |Rangpur       |
@@ -37,6 +41,7 @@ toc_icon: "heart"
 |District: 	   	   |Rangpur       |
 |Thana: 	       |Rangpur Sadar |
 |Post code:        |5400          |
+
 ## Educational Achievements 			
 Medium of Instruction: [English](#)
 {: .notice--info}
