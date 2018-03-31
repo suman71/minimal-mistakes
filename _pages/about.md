@@ -12,13 +12,6 @@ toc_icon: "heart"
 ---
 
 ## Personal Information
-|            |         |	
-| First name:|Md. Suman|
-|Middle name:|         |
-| Last name: |Miah     |
-|            |         |
-{: rules="groups"}
-
 ### Address
 | Mailing Address             |
 |:--------|:-------:|--------:|
@@ -34,11 +27,9 @@ toc_icon: "heart"
 | Mailing Address  |         |	
 |:--------|:-------:|--------:|
 |First name:|Md. Suman|
-|Middle name:|         |
 |Last name: |Miah     |
-|=====
-| Permanent Address  | Rangpur  | 
-|            |         |
+| Permanent Address  | Rangpur |	
+|:--------|:-------:|--------:|
 {: rules="groups"}
 
 Address: 	DASCOH Foundation, Lutheran Mission Complex, Dingadoba, Rajshahi 6205 Bangladesh
