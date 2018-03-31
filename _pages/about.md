@@ -13,8 +13,14 @@ toc_icon: "heart"
 
 ## Personal Information
 
-|First name:|Md. Suman|
-|Last name: |Miah     |
+|First name:        | Md. Suman            |
+|Last name:         | Miah                 |
+|Sex: 	            | Male                 |
+|Blood group: 	    | B+                   |
+|Nationality: 	    | Bangladesh           |
+|Country of origin: | Bangladesh           |
+|Date of birth:     | 11 December 1989     |
+|E-Mail Address:    | suman.rubd@yahoo.com |
 {: rules="groups"}
 
 ### Address
@@ -26,6 +32,7 @@ toc_icon: "heart"
 |District: 	   	 |Rajshahi												 |
 |Thana: 	     |Rajpara Thana											 |
 |Post code:      |6201 													 |
+|E-Mail Address: |suman@dascoh.org										 | 
 
 |Permanent Address | Rangpur      |
 |----------------- | -------      |
