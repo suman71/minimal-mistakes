@@ -12,11 +12,11 @@ toc_icon: "heart"
 ---
 
 ## Personal Information
- |||	
+|            |         |	
 | First name:|Md. Suman|
-|Middle name:||
+|Middle name:|         |
 | Last name: |Miah     |
-|||
+|            |         |
 {: rules="groups"}
 
 ### Mailing address 
