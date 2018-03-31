@@ -43,9 +43,8 @@ toc_icon: "heart"
 |Post code:        |5400          |
 
 ## EDUCATION ACHIEVEMENTS 			
-MEDIUM OF INSTRUCTION: [ENGLISH] {: .notice--info}
-**Watch out!** This paragraph of text has been [emphasized](#) with the class.
-{: .notice--info}
+
+**MEDIUM OF INSTRUCTION!** This paragraph of text has been [ENGLISH](#){: .notice--info}
 	
 	* Master of Science (MS) in Geology and Mining, University of Rajshahi, Bangladesh.
 		* Awarded: 2012 (Examination held in 2014, Result Published in 2015)
