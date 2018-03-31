@@ -28,9 +28,8 @@ toc_icon: "heart"
 |Post code: |6201 	|
 {: rules="groups"}
 
-|Permanent Address  | Rangpur|
-|:--------|:-------:|
-{: rules="groups"}
+Permanent Address  | Rangpur
+--------|-------
 
 ## Body text
 
