@@ -12,31 +12,23 @@ toc_icon: "heart"
 ---
 
 ## Personal Information
-### Address
-| Mailing Address             |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|----
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=====
-| Foot1   | Foot2   | Foot3
-{: rules="groups"}
 
-| Mailing Address  |         |	
 |:--------|:-------:|--------:|
 |First name:|Md. Suman|
 |Last name: |Miah     |
-| Permanent Address  | Rangpur |	
-|:--------|:-------:|--------:|
 {: rules="groups"}
 
-Address: 	DASCOH Foundation, Lutheran Mission Complex, Dingadoba, Rajshahi 6205 Bangladesh
-Country: 	Bangladesh
-District: 	Rajshahi
-Thana: 	Rajpara Thana
-Post code: 	6201 
+### Address
+| Mailing Address  |
+|:--------|:-------:|
+|Address: 	|DASCOH Foundation, Lutheran Mission Complex, Dingadoba, Rajshahi 6205 Bangladesh|
+|Country: 	|Bangladesh|
+|District: 	|Rajshahi|
+|Thana: 	|Rajpara Thana|
+|Post code: |6201 	|
+| Permanent Address  | Rangpur|
+|:--------|:-------:|:-------:|
+{: rules="groups"}
 
 ## Body text
 
