@@ -47,88 +47,18 @@ Medium of Instruction: [English](#)
 {: .notice--info}
 * Post Graduate Diploma in Human Resource Management (PGDHRM), Institute of Personnel Management, Bangladesh.
 	* _Specialization_: Fundamental of Management, Human Resource Management, Labor Economics, Industrial Psychology, Labor  Law, Industrial Relations, Industrial Safety, Labor Welfare
-	* Awarded: Ongoing
+	* _Awarded_: Ongoing
 * Master of Science (MS) in Geology and Mining, University of Rajshahi, Bangladesh.
-	* Specialization: Water Resource Management, Geo hazard, Disaster and Environmental Management
-	* Awarded: 2012 (Examination held in 2014, Result Published in 2015)
+	* _Specialization_: Water Resource Management, Geo hazard, Disaster and Environmental Management
+	* _Awarded_: 2012 (Examination held in 2014, Result Published in 2015)
 * Bachelor of Science (B.Sc. Hon’s) in Geology and Mining, University of Rajshahi, Bangladesh
-	* Specialization: Hydrogeology, Petroleum, Mining, Remote sensing & GIS, Physical, Historical Geology, Geological Mapping, Mineralogy, Stratigraphy, Geophysics 
-	* Awarded: 2011 (Examination held in 2012)
+	* _Specialization_: Hydrogeology, Petroleum, Mining, Remote sensing & GIS, Physical, Historical Geology, Geological Mapping, Mineralogy, Stratigraphy, Geophysics 
+	* _Awarded_: 2011 (Examination held in 2012)
 * H.S.C at Rangpur Govt. College, Rangpur, Rajshahi Board, Bangladesh
-	* Group: Science
-	* Specialization: Physics, Chemistry, mathematics, English
-	* Awarded: 2007
+	* _Group_: Science
+	* _Specialization_: Physics, Chemistry, mathematics, English
+	* _Awarded_: 2007
 * S.S.C at Bir Uttam Shaheed Samad High School, Rangpur Cant., Rajshahi Board, Bangladesh
-	* Group: Science
-	* Specialization: Physics, Chemistry, Higher mathematics, English
-	* Awarded: 2005 
-
-
-![Smithsonian Image]({{ site.url }}{{ site.baseurl }}/assets/images/sumanlogo.jpg)
-{: .image-right}
-
-*This is emphasized*. Donec faucibus. Nunc iaculis suscipit dui. 53 = 125. Water is H2O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. The New York Times (That’s a citation). Underline.Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.
-
-HTML and CSS are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.
-
-### Blockquotes
-
-> Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.
-
-## List Types
-
-### Ordered Lists
-
-1. Item one
-   1. sub item one
-   2. sub item two
-   3. sub item three
-2. Item two
-
-### Unordered Lists
-
-* Item one
-* Item two
-* Item three
-
-## Tables
-
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|----
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=====
-| Foot1   | Foot2   | Foot3
-{: rules="groups"}
-
-## Code Snippets
-
-```css
-#container {
-  float: left;
-  margin: 0 -240px 0 0;
-  width: 100%;
-}
-```
-
-## Buttons
-
-Make any link standout more when applying the `.btn` class.
-
-```html
-<a href="#" class="btn btn--success">Success Button</a>
-```
-
-<div markdown="0"><a href="#" class="btn">Primary Button</a></div>
-<div markdown="0"><a href="#" class="btn btn--success">Success Button</a></div>
-<div markdown="0"><a href="#" class="btn btn--warning">Warning Button</a></div>
-<div markdown="0"><a href="#" class="btn btn--danger">Danger Button</a></div>
-<div markdown="0"><a href="#" class="btn btn--info">Info Button</a></div>
-
-## Notices
-
-**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
-{: .notice}
+	* _Group_: Science
+	* _Specialization_: Physics, Chemistry, Higher mathematics, English
+	* _Awarded_: 2005 
