@@ -29,7 +29,7 @@ toc_icon: "heart"
 
 |Permanent Address     | Rangpur|
 |--------------------- | -------|
-|1|2|
+|||
 
 ## Body text
 
