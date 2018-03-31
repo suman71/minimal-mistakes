@@ -43,10 +43,21 @@ toc_icon: "heart"
 |Post code:        |5400          |
 
 ## EDUCATION ACHIEVEMENTS 			
-
-Medium of Instruction: [ENGLISH](#)
+Medium of Instruction: [English](#)
 {: .notice--info}
-	
+ * List item one 
+      * List item one 
+          * List item one
+          * List item two
+          * List item three
+          * List item four
+      * List item two
+      * List item three
+      * List item four
+  * List item two
+  * List item three
+  * List item four
+  
 	* Master of Science (MS) in Geology and Mining, University of Rajshahi, Bangladesh.
 		* Awarded: 2012 (Examination held in 2014, Result Published in 2015)
 	* Bachelor of Science (B.Sc. Hon’s) in Geology and Mining, University of Rajshahi, Bangladesh
