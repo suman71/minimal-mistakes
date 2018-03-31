@@ -65,7 +65,7 @@ Medium of Instruction: [English](#)
 
 ### Report and Presentation
 #### Publication
-*  Md. Ferozur Rahman, ** Md. Suman Miah**,_ Md. Kamruzzaman and Chowdhury Sarwar Jahan, Rainwater Harvesting to Alleviate Water Scarcity in Drought-prone Barind Tract, NW,Bangladesh: A Case Study_ (2016), Proceeding Published in 1st International Conference on Botanical Pesticide and Environmental Sustainability. 24-26, IES, University of Rajshahi, Bangladesh
+*  Md. Ferozur Rahman, **Md. Suman Miah**, Md. Kamruzzaman and Chowdhury Sarwar Jahan, Rainwater Harvesting to Alleviate Water Scarcity in Drought-prone Barind Tract, NW,Bangladesh: A Case Study_ (2016), Proceeding Published in 1st International Conference on Botanical Pesticide and Environmental Sustainability. 24-26, IES, University of Rajshahi, Bangladesh
 #### Internship
 * Internship Title: _A Report on Inspection of Titas well no- 27 Drilling Process, Brahmanbaria, Bangladesh,_ (2014), MS Report, University of Rajshahi
 #### Project
