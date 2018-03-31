@@ -10,7 +10,6 @@ toc: true
 toc_label: "Contents"
 toc_icon: "heart"
 ---
-
 ## Personal Information
 
 |First name:        | Md. Suman            |
@@ -22,9 +21,7 @@ toc_icon: "heart"
 |Date of birth:     | 11 December 1989     |
 |E-Mail Address:    | suman.rubd@yahoo.com |
 {: rules="groups"}
-
 ### Address
-
 |Mailing Address | Rajshahi                 							 |
 |--------------- | ------------------------------------------------------|
 |Address: 		 |DASCOH Foundation, Lutheran Mission Complex, Dingadoba |
@@ -33,7 +30,6 @@ toc_icon: "heart"
 |Thana: 	     |Rajpara Thana											 |
 |Post code:      |6201 													 |
 |E-Mail Address: |suman@dascoh.org										 | 
-
 |Permanent Address | Rangpur      |
 |----------------- | -------      |
 |Address: 		   |Rangpur       |
@@ -41,10 +37,12 @@ toc_icon: "heart"
 |District: 	   	   |Rangpur       |
 |Thana: 	       |Rangpur Sadar |
 |Post code:        |5400          |
-
 ## Educational Achievements 			
 Medium of Instruction: [English](#)
 {: .notice--info}
+* Post Graduate Diploma in Human Resource Management (PGDHRM), Institute of Personnel Management, Bangladesh.
+	* Specialization: Fundamental of Management, Human Resource Management, Labor Economics, Industrial Psychology, Labor  Law, Industrial Relations, Industrial Safety, Labor Welfare
+	* Awarded: Ongoing
 * Master of Science (MS) in Geology and Mining, University of Rajshahi, Bangladesh.
 	* Specialization: Water Resource Management, Geo hazard, Disaster and Environmental Management
 	* Awarded: 2012 (Examination held in 2014, Result Published in 2015)
@@ -60,15 +58,6 @@ Medium of Instruction: [English](#)
 	* Specialization: Physics, Chemistry, Higher mathematics, English
 	* Awarded: 2005 
 
-|Level of Education|Name of Degree | Educational Institue   | Passing Year | Discipline | Specialization |
-|----------------- | -------       |----------------------- | -------------|----------- | -------------- |
-|Masters 		  |MS 		    | University of Rajshahi | 2012 	    | Geology and Mining | Water Resource Management, Geo hazard, Disaster and Environmental Management| 
-|Bachelors 		  |B.Sc(Hons.)    | University of Rajshahi | 2011 	 	| Geology and Mining | Physical, Historical Geology, Geological Mapping, Mineralogy, Stratigraphy, Geophysics, Hydrogeology, Petroleum, Mining, Remote sensing & GIS |
-|H.S.C             |Higher Secondary School Certificate | Rangpur Govt. College | 2007	| Science | | 
-|S.S.C             |Secondary School Certificate | Bir Uttam Shaheed Samad High School, Rangpur Cantonment | 2005 | Science  | Physics, Chemistry, Higher mathematics, English|
-
-
-Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
 
 ![Smithsonian Image]({{ site.url }}{{ site.baseurl }}/assets/images/sumanlogo.jpg)
 {: .image-right}
