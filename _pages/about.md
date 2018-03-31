@@ -46,21 +46,25 @@ toc_icon: "heart"
 Medium of Instruction: [English](#)
 {: .notice--info}
 * Master of Science (MS) in Geology and Mining, University of Rajshahi, Bangladesh.
+	* Specialization: Water Resource Management, Geo hazard, Disaster and Environmental Management
 	* Awarded: 2012 (Examination held in 2014, Result Published in 2015)
 * Bachelor of Science (B.Sc. Hon’s) in Geology and Mining, University of Rajshahi, Bangladesh
+	* Specialization: Hydrogeology, Petroleum, Mining, Remote sensing & GIS, Physical, Historical Geology, Geological Mapping, Mineralogy, Stratigraphy, Geophysics 
 	* Awarded: 2011 (Examination held in 2012)
 * H.S.C at Rangpur Govt. College, Rangpur, Rajshahi Board, Bangladesh
 	* Group: Science
+	* Specialization: Physics, Chemistry, mathematics, English
 	* Awarded: 2007
 * S.S.C at Bir Uttam Shaheed Samad High School, Rangpur Cant., Rajshahi Board, Bangladesh
 	* Group: Science
+	* Specialization: Physics, Chemistry, Higher mathematics, English
 	* Awarded: 2005 
 
 |Level of Education|Name of Degree | Educational Institue   | Passing Year | Discipline | Specialization |
 |----------------- | -------       |----------------------- | -------------|----------- | -------------- |
 |Masters 		  |MS 		    | University of Rajshahi | 2012 	    | Geology and Mining | Water Resource Management, Geo hazard, Disaster and Environmental Management| 
 |Bachelors 		  |B.Sc(Hons.)    | University of Rajshahi | 2011 	 	| Geology and Mining | Physical, Historical Geology, Geological Mapping, Mineralogy, Stratigraphy, Geophysics, Hydrogeology, Petroleum, Mining, Remote sensing & GIS |
-|H.S.C             |Higher Secondary School Certificate | Rangpur Govt. College | 2007	| Science | Physics, Chemistry, mathematics, English| 
+|H.S.C             |Higher Secondary School Certificate | Rangpur Govt. College | 2007	| Science | | 
 |S.S.C             |Secondary School Certificate | Bir Uttam Shaheed Samad High School, Rangpur Cantonment | 2005 | Science  | Physics, Chemistry, Higher mathematics, English|
 
 
