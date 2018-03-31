@@ -106,13 +106,13 @@ Medium of Instruction: [English](#)
  4. Hydro-geologist Expert for Survey Conduction and Preparation of Hydro-geological Profile to Install Aquifer Recharge Well in Chapai-Nawabganj District. NGO Forum for Public Health, Lalmatia, Dhaka 1207, Bangladesh.
  5. Water Quality in Zia Nagor Slum Area, Rajshahi. Village Education and Resource Center (VERC).
 
- Major Responsibilities as _Research Associate_: 
+Major Responsibilities as _Research Associate_: 
 
- * Taking VES (Vertical Electrical Sounding) data
- * Analyze data using Resistivity Sounding (VES) software, spreadsheet program (Excel, SPSS), ArcGIS software
- * Preparing field reports
- * Provide support for projects by collecting data, providing project documentation
- * Provide technical assistance in data analysis, regulatory analysis
+* Taking VES (Vertical Electrical Sounding) data
+* Analyze data using Resistivity Sounding (VES) software, spreadsheet program (Excel, SPSS), ArcGIS software
+* Preparing field reports
+* Provide support for projects by collecting data, providing project documentation
+* Provide technical assistance in data analysis, regulatory analysis
 
 ## Computer Skills
 * IT Passport (IP) Exam passed, Bangladesh IT-engineers Examination Center (BD-ITEC), Bangladesh Computer Council
@@ -129,11 +129,12 @@ From 26.09.2014 to 30.12.2014
 * Sound in Networking and Intranet, Internet Applications, E-Mail Applications, Social Networking (Audio-Visual Conferencing/ Instant Messaging Services Etc.)
 
 ## Language Proficiency
+
 |Language| Speak   | Understand |Read 	     | Write 	  |Mother tongue|
 |--------|---------|------------|------------|------------|-------------|
 |Bengali | Fluent  | Fluent     | Fluent     | Fluent     |Mother tongue|
 |English | Fluent  | Fluent 	| Fluent 	 | Fluent 	  |             |
-|German [^yaml-anchors]  | Moderate| Moderate   | Fluent 	 | Fluent 	  |             |
+|German | Moderate| Moderate   | Fluent 	 | Fluent 	  |             |
 |Hindi 	 | Fluent  | Fluent 	| Not Fluent | Not Fluent | 	        |
 
 [^yaml-anchors]: A year certificate course on German language as demonstrated moderate skill through reading, listening and speaking and taking personal interview. 
