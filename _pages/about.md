@@ -128,7 +128,7 @@ Major Responsibilities as _Research Associate_:
 ## Computer Skills
 
 * IT Passport (IP) Exam passed, Bangladesh IT-engineers Examination Center (BD-ITEC), Bangladesh Computer Council
-* Completed 6 Month Database Programming Certificate in Skill Standard Basic Course Examination 2015 By Bangladesh Technical Education Board, Dhaka; Secured Grade: A+, Reg. No: 857355, Sl No: 2250486. 
+* Completed 6 Month Database Programming Certificate of Skill Standard Basic Course Examination 2015 By Bangladesh Technical Education Board, Dhaka; Secured Grade: A+, Reg. No: 857355, Sl No: 2250486. 
 * Completed 3 month training course on “Content Management System with Wordpress” 
 Institute: Raj IT, Rajshahi, Supported by Bangladesh High-tech Park Authority
 From 26.09.2014 to 30.12.2014
