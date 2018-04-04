@@ -149,8 +149,8 @@ From 26.09.2014 to 30.12.2014
 |German[^german] | Moderate| Moderate   | Fluent 	 | Fluent 	  |             |
 |Hindi 	 | Fluent  | Fluent 	| Not Fluent | Not Fluent | 	        |
 
-[^aptis] Achieved  APTIS certificate scored B1 from British Council.
-[^german] A year certificate course on German language as demonstrated moderate skill through reading, listening and speaking and taking personal interview.
+[^aptis]: Achieved  APTIS certificate scored B1 from British Council.
+[^german]: A year certificate course on German language as demonstrated moderate skill through reading, listening and speaking and taking personal interview.
 
 ## Participation
 
