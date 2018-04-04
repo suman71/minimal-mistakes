@@ -157,26 +157,26 @@ From 26.09.2014 to 30.12.2014
 ### Training Received
   
 * Training on _Report Writing_, Organized by DASCOH Foundation, Rajshahi, From 28 March 2018-29 March 2018
-* Training on Measuring Resilience, Organized by Swiss Red Cross and Bangladesh Red Crescent, Training by Banyaneer, SKSInn Training Center, Gaibandha, Bangladesh, From 11 June to 15 June 2017 
-* Training on "Conflict Sensitive Program Management (CSPM)", Organized by DASCOH & Swiss Red Cross, DASCOH Training Center, Rajshahi, From 24 to 26 June 2015. 
-* Training Course on “Principles of Geographical Information System (GIS) and Remote Sensing”, Organized By Department of Urban and Regional Planning, Rajshahi University of Engineering and Technology (RUET) From 28-29 May 2015
-* Training Course on “Multidisciplinary Application of Geographic Information System (GIS), Organized By Department of Urban and Regional Planning, Rajshahi University of Engineering and Technology (RUET) From 03-04 December 2015
-* Received 3 days Training on “Integrated Water Resource Management” from 29.08.2016 to 31.08.2016 at Rural Development Academy (RDA), Bogra.
+* Training on _Measuring Resilience_, Organized by Swiss Red Cross and Bangladesh Red Crescent, Training by Banyaneer, SKSInn Training Center, Gaibandha, Bangladesh, From 11 June to 15 June 2017 
+* Training on _Conflict Sensitive Program Management (CSPM)_, Organized by DASCOH & Swiss Red Cross, DASCOH Training Center, Rajshahi, From 24 to 26 June 2015. 
+* Training Course on _Principles of Geographical Information System (GIS) and Remote Sensing_, Organized By Department of Urban and Regional Planning, Rajshahi University of Engineering and Technology (RUET) From 28-29 May 2015
+* Training Course on _Multidisciplinary Application of Geographic Information System (GIS)_, Organized By Department of Urban and Regional Planning, Rajshahi University of Engineering and Technology (RUET) From 03-04 December 2015
+* Received 3 days Training on _Integrated Water Resource Management_ from 29.08.2016 to 31.08.2016 at Rural Development Academy (RDA), Bogra.
  
 ### Conference
  
-* International Conference on Oil and Gas Exploration Technologies 24-25 April (2013) Nawab Ali Chowdhury Auditorium, Dhaka University. Organized By Department of Geology, Dhaka University. Sponsored by GAZPROM International, Russia and Petrobangla, Bangladesh.
-* North Bengal Drought Conference (NBDC) 2012 on sharing Knowledge Combating Climate Change Disaster. Organized by Dept. Of Geology and mining, University of Rajshahi, Co-organizer: CSRL, Barandra Campaign Group, Rajshahi  
+* International Conference on _Oil and Gas Exploration Technologies_ 24-25 April (2013) Nawab Ali Chowdhury Auditorium, Dhaka University. Organized By Department of Geology, Dhaka University. Sponsored by GAZPROM International, Russia and Petrobangla, Bangladesh.
+* _North Bengal Drought Conference (NBDC)_ 2012 on sharing Knowledge Combating Climate Change Disaster. Organized by Dept. Of Geology and mining, University of Rajshahi, Co-organizer: CSRL, Barandra Campaign Group, Rajshahi  
 
 ### Seminar
  
-* Attended a seminar on “Irrigation Option in the Barind Area: Status and Potential.” Organized by- Department of Geology and Mining, University of Rajshahi, Rajshahi 6205.
+* Attended a seminar on _Irrigation Option in the Barind Area: Status and Potential_ Organized by- Department of Geology and Mining, University of Rajshahi, Rajshahi 6205.
 
 ### Workshop
   
-* Workshop on “Leadership Skill Development”, Organized by Rotaract Club of Rajshahi University at Rajshahi University on 25th December, 2015
-* Workshop on “Project Management”, Organized by Rotaract Club of Rajshahi University at Rajshahi University on 11th December, 2009
-* Workshop on “Human Resource Management”, Organized by Rotaract Club of Rajshahi University at Rajshahi University on 14th January, 2011
+* Workshop on _Leadership Skill Development_, Organized by Rotaract Club of Rajshahi University at Rajshahi University on 25th December, 2015
+* Workshop on _Project Management_, Organized by Rotaract Club of Rajshahi University at Rajshahi University on 11th December, 2009
+* Workshop on _Human Resource Management_, Organized by Rotaract Club of Rajshahi University at Rajshahi University on 14th January, 2011
 
 ## Extra-Curricular Activities
  
