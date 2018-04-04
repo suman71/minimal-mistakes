@@ -30,6 +30,10 @@ gallery:
     image_path: /assets/images/GIS.JPG
     alt: "GIS Training"
     title: "Trained on GIS and Remote Sensing"
+  - url: /assets/images/dept.JPG
+    image_path: /assets/images/dept.JPG
+    alt: "Basic Computing and Fortran"
+    title: "Learned on Basic Computing and Fortran"
 ---
 {% include gallery caption="My achievement in **IT**." %}
 
