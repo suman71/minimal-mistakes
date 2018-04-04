@@ -145,12 +145,12 @@ From 26.09.2014 to 30.12.2014
 |Language| Speak   | Understand |Read 	     | Write 	  |Mother tongue|
 |--------|---------|------------|------------|------------|-------------|
 |Bengali | Fluent  | Fluent     | Fluent     | Fluent     |Mother tongue|
-|English | Fluent  | Fluent 	| Fluent 	 | Fluent 	  |             |
-|German  | Moderate| Moderate   | Fluent 	 | Fluent 	  |             |
+|English[^aptis-note] | Fluent  | Fluent 	| Fluent 	 | Fluent 	  |             |
+|German[^german-note] | Moderate| Moderate   | Fluent 	 | Fluent 	  |             |
 |Hindi 	 | Fluent  | Fluent 	| Not Fluent | Not Fluent | 	        |
 
-* Achieved  APTIS certificate scored B1 from British Council.
-* A year certificate course on German language as demonstrated moderate skill through reading, listening and speaking and taking personal interview.
+[^aptis-note] Achieved  APTIS certificate scored B1 from British Council.
+[^german-note] A year certificate course on German language as demonstrated moderate skill through reading, listening and speaking and taking personal interview. 
 {: .notice--success}
 
 ## Participation
