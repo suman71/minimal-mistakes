@@ -140,7 +140,7 @@ From 26.09.2014 to 30.12.2014
 * Skilled in Web Designing and development, knows (html, css, JavaScript, jquary, php), Visual Basic and Java.
 * Sound in Networking and Intranet, Internet Applications, E-Mail Applications, Social Networking (Audio-Visual Conferencing/ Instant Messaging Services Etc.)
 
-[See the achievements in Gallery]({{ "/posts/computer-certificate/" | relative_url }}){: .btn .btn--info}
+[See the achievements in Gallery]({{ "/achievement/computer-certificate/" | relative_url }})
 {: .notice--info}
 
 ## Language Proficiency
