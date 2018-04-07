@@ -154,6 +154,14 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
+search                   : true
+search_full_content      : true
+search_provider: algolia
+algolia:
+  application_id: S5QUGXEKKS
+  index_name: Suman
+  search_only_api_key: 4350ccace5d667a83513d5da84d6c36c
+  powered_by: true
 
 # Conversion
 markdown: kramdown
