@@ -13,6 +13,7 @@ categories:
 tags:
   - IWRM
   - News
+comments: true
 ---
 ### Newstoday: RAJSHAHI, Feb 24, 2018 (BSS): 
 
