@@ -6,4 +6,4 @@ tags:
   - Suman
 ---
 
-Text
+Kobo toolbox introduced at DASCOH Foundation on 12 January 2017 for the outcome survey. 
