@@ -36,6 +36,7 @@ gallery:
     title: "Learned on Basic Computing and Fortran"
 ---
 {% include gallery caption="My achievement in **IT**." %}
+
 I have been growing with the knack of technology. By the computer and smartphone, we can make ease our life. Though having no graduate degree in CSE, I can do perform a lot as I've got an enthusiasm on it.
 
 Thanks for visiting my gallery. 
