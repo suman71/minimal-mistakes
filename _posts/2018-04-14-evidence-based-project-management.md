@@ -9,7 +9,7 @@ tags:
 The starting point for evidence-based management is that management decisions should be based on a combination of critical thinking and the best available evidence. And by ‘evidence’, we mean information, facts or data supporting (or contradicting) a claim, assumption or hypothesis. Evidence may come from scientific research, but internal business information and even professional experience can count as ‘evidence’. In principle, then, all managers base their decisions on ‘evidence’.
 Evidence-based management.
 
-link
+![alt text](https://suman71.github.io/assets/images/EBP.jpg "Evidence base project")
 
 Many managers, however, pay little or no attention to the quality of the evidence they rely on to make decisions. As a result management decisions are often based on so-called ‘best practice’ and success stories of famous CEOs. Evidence-based practice seeks to address this state of affairs by helping managers to critically evaluate the validity, generalizability and applicability of the evidence they have in hand and how to find the ‘best available’ evidence. 
 
