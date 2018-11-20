@@ -9,6 +9,4 @@ tags:
 ---
 IWRM project videos and documentary is [here.](https://youtu.be/TodUZdk7lhU)
 
-<div class="iframe_container">
-  <iframe width="560" height="315" src="http://www.youtube.com/embed/TodUZdk7lhU" frameborder="0" allowfullscreen></iframe>
-</div>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/TodUZdk7lhU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
