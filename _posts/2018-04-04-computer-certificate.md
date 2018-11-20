@@ -5,6 +5,8 @@ categories:
 tags:
   - gallery
   - Suman
+
+I have been growing with the knack of technology. By the computer and smartphone, we can make ease our life. Though having no graduate degree in CSE, I can do perform a lot as I've got an enthusiasm on it.
 gallery:
   - url: /assets/images/ipsuman.jpg
     image_path: /assets/images/ipsuman.jpg
@@ -17,10 +19,10 @@ gallery:
   - url: /assets/images/hightech.JPG
     image_path: /assets/images/hightech.JPG
     alt: "Content Management System"
-    title: "Completed 3 month training course on “Content Management System with Wordpress” "
+    title: "Completed3-months training course on “Content Management System with Wordpress” "
   - url: /assets/images/bootcamp.jpg
     image_path: /assets/images/bootcamp.jpg
-    alt: "bootcamp"
+    alt: "Bootcamp"
     title: "Boot camp on Mobile Application Development"
   - url: /assets/images/google.JPG
     image_path: /assets/images/google.JPG
