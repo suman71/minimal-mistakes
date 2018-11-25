@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 title: "Suman Résumé"
+comments: true
 header:
   image: /assets/images/sam.jpg
   caption: "Photo credit: [**DASCOH**](http://www.dascoh.org)"
