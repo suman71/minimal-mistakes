@@ -10,3 +10,6 @@ tags:
 IWRM project videos and documentary is [here.](https://youtu.be/TodUZdk7lhU)
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/TodUZdk7lhU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Public Awareness program: Street Play on Saving Water 
+<iframe width="640" height="480" src="https://www.youtube.com/embed/uoSkEBXwekA?list=PLFj7_vf0QRsAA3uOQKjgfWVrzESboyuht" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
