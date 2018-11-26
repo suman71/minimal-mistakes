@@ -17,42 +17,12 @@ teaser                   : "/assets/images/post-teaser.png"
 breadcrumbs              : true
 words_per_minute         : 200
 comments:
-  provider               : "custom"
-  provider               : "disqus"
-  disqus:
-    shortname            : "suman19"
   provider               : "facebook"
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : 5
     colorscheme          : "light"
-  provider               : "staticman"
-  staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "master"
-  commitMessage          : "New comment."
-  filename               : "comment-{@timestamp}"
-  format                 : "yml"
-  moderation             : true
-  path                   : "/_data/comments/{options.slug}"
-  requiredFields         : ['name', 'email', 'message']
-  transforms:
-    email                : "md5"
-  generatedFields:
-    date:
-      type               : "date"
-      options:
-        format           : "iso8601"
-reCaptcha:
-  enabled                : true
-  siteKey                : "6LctjkAUAAAAABSZ5qDTien_PYUJovqWD959BQPc"
-  secret                 : "6LctjkAUAAAAAPHuNcEwOKIClWwWpmezjm9pgjrV"
-atom_feed:
-  path                   : "http://feeds.feedburner.com/sumansmusings"
-search                   : true
-search_full_content      : true
-
 # SEO Related
 google_site_verification :
 bing_site_verification   : "74F3220FC04BEDD614F8A384B84D50FA"
@@ -70,8 +40,8 @@ og_image                 : "/assets/images/sumanlogo.png"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # "Suman"
+  type                   : "Person" # or Organization (defaults to Person)
+  name                   : "Suman"
   links: # An array of links to social media profiles
   
     - "https://facebook.com/suman1971"
