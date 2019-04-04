@@ -8,7 +8,6 @@ tags:
   - IWRM
   - CSPM
 ---
-# Conflict-Sensitive Programme Management CSPM
 
 ### **Integrating conflict sensitivity and prevention of violence into SDC Programms - A handbook for practitioners**
 
