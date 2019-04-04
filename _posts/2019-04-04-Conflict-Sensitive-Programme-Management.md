@@ -8,6 +8,7 @@ tags:
   - IWRM
   - CSPM
 ---
+CSPM is a relationship between two or more parties who have, or think they have, incompatible goals, values, interests or claims to status, power or scarce resources. 
 
 ### **Integrating conflict sensitivity and prevention of violence into SDC Programms - A handbook for practitioners**
 
@@ -47,4 +48,7 @@ tags:
 
 - [Gender, Conflict Transformation &amp; the Psychosocial Approach (PDF, 1.7 MB, English)](https://www.eda.admin.ch/content/dam/deza/en/documents/themen/gender/91135-arbeitshilfe-gender-konflikttrans-psychosoz-ansatz_EN.pdf)
 - [Ressource Pack on International Alert](http://www.international-alert.org/what-we-work)
-```
+
+### **DASCOH CSPM for IWRM**
+- [Workshop Module 1](https://drive.google.com/open?id=0BwPFONRwU7GXbXJWaXYwTk1qUWs)
+- [Workshop Module 3](https://drive.google.com/open?id=1yoL7C5Y7yfSEHqBRws-vNYC37JFVsi8A)
