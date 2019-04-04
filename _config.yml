@@ -47,7 +47,6 @@ social:
     - "https://facebook.com/suman1971"
     - "https://www.linkedin.com/in/suman19"
     - "https://twitter.com/oporazito"
-    - "https://instagram.com/oporazito"
     - "https://plus.google.com/118364840166197656368"
 # Analytics
 analytics:
@@ -74,7 +73,7 @@ author:
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        : "oporazito"
+  instagram        : 
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/suman19"
   pinterest        :
