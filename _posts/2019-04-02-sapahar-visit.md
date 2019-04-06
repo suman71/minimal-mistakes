@@ -2,7 +2,6 @@
 title: "Field visit for Resistivity Survey at Sapahar, Naogaon"
 header:
   teaser: /assets/images/sapahar.JPG
-  og_image: /assets/images/sapahar.JPG
 categories:
   - IWRM
 tags:
