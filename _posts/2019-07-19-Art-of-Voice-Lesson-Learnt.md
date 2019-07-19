@@ -1,12 +1,6 @@
 ---
 title: "Art of Voice: Lesson Learnt"
 excerpt_separator: "<!--more-->"
-header:
-  overlay_image: /assets/images/unsplash-image-1.jpg
-  og_image: /assets/images/page-header-og-image.png
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  cta_url: "https://unsplash.com"
-teaser: /assets/images/page-header-teaser.png
 categories:
   - training
     tags:
@@ -14,10 +8,6 @@ categories:
   - skill
 comments: true
 related: true
-tags:
-toc: true
-toc_label: "Unique Title"
-toc_icon: "heart"
 ---
 
 Today 19 July 2019, I've participated a daylong marathon training on "Art of Voice" held by Mridha Institute at University of Rajshahi. I've learnt the beauty and art of voice, the powerful hack of the voice. I'm a big fan of trainer Mr. Md. Shahadat Hossain, an famous Actor and Theatre Director. I was impressed by his presentation and enriched the knowledge he provided. 
@@ -53,13 +43,13 @@ There is a few difference between a typical voice actor and Voice Acting. These 
 
 The graph shows the communication nature. 55% communication done by body language and only 7% by words. But we concentrate more in words than body language.
 
-![](C:\Users\Suman\Desktop\nature of communication.JPG)
+![](/assets/images/communication.JPG)
 
 *How our brain works?* 
 
 I've tried to draw a picture. From the image, we see, Left hemisphere of brain control right part of body and Right hemisphere of brain control left part of body. And these are the centre for logical and creative and non linear thinking. 
 
-![](C:\Users\Suman\Desktop\brain.jpg)
+![](/assets/images/brain.jpg)
 
 These are creative 'spin' to the linear words of script.
 
