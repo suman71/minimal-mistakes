@@ -9,7 +9,6 @@ categories:
 comments: true
 related: true
 ---
-
 Today 19 July 2019, I've participated a daylong marathon training on "Art of Voice" held by Mridha Institute at University of Rajshahi. I've learnt the beauty and art of voice, the powerful hack of the voice. I'm a big fan of trainer Mr. Md. Shahadat Hossain, an famous Actor and Theatre Director. I was impressed by his presentation and enriched the knowledge he provided. 
 
 <!--more-->
