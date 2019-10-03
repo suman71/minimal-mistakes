@@ -33,7 +33,7 @@ naver_site_verification  :
 twitter:
   username               : "oporazito"
 facebook:
-  username               : "hydrosman"
+  username               : "SumanGeo"
   app_id                 :
   publisher              :
 og_image                 : "/assets/images/sumanlogo.png"
@@ -44,7 +44,7 @@ social:
   name                   : "Suman"
   links: # An array of links to social media profiles
   
-    - "https://facebook.com/suman1971"
+    - "https://facebook.com/SumanGeo"
     - "https://www.linkedin.com/in/suman19"
     - "https://twitter.com/oporazito"
     - "https://plus.google.com/118364840166197656368"
