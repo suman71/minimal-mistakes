@@ -52,6 +52,4 @@ I've tried to draw a picture. From the image, we see, Left hemisphere of brain c
 
 These are creative 'spin' to the linear words of script.
 
-*The 7 core elements for effective performance.* 
-
----- not finished---- 
+Later I'll I'll discuss the 7 core elements for effective performance.
