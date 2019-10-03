@@ -1,5 +1,5 @@
 ---
-title: "Art of Voice: Lesson Learnt"
+title: "Art of Voice"
 excerpt_separator: "<!--more-->"
 categories:
   - training
