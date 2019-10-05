@@ -1,5 +1,7 @@
 ---
 title: "Mobile Application Development"
+header:
+  teaser: /assets/images/mobile-apps-training2.jpg
 categories:
   - ICT
 tags:
