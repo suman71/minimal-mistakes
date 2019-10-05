@@ -8,7 +8,7 @@ tags:
   - Android
 gallery:
   - url: /assets/images/mobile-apps-training1.jpg
-    image_path: /assets/images/mobile-apps-training.jpg
+    image_path: /assets/images/2014-mobile-apps.jpg
     alt: "mobile apps training"
     title: "Mobil apps training Certificate"
   - url: /assets/images/mobile-apps-training2.jpg
