@@ -11,8 +11,8 @@ tags:
   - Water
   - Netherlands
 gallery:
-  - url: /assets/images/2019-Hague.jpg
-    image_path: /assets/images/2019-Hague.jpg
+  - url: /assets/images/2019-Hague.JPG
+    image_path: /assets/images/2019-Hague.JPG
     alt: "Certificate of the short course"
     title: "Certificate of the short course"
   - url: https://www.facebook.com/photo.php?fbid=2454075394829769&set=a.2448829938687648&type=3&theater
