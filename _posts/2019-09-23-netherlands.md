@@ -11,6 +11,10 @@ tags:
   - Water
   - Netherlands
 gallery:
+  - url: /assets/images/2019-Hague.jpg
+    image_path: /assets/images/2019-Hague.jpg
+    alt: "Certificate of the short course"
+    title: "Certificate of the short course"
   - url: https://www.facebook.com/photo.php?fbid=2454075394829769&set=a.2448829938687648&type=3&theater
     image_path: https://scontent.fdac12-1.fna.fbcdn.net/v/t1.0-9/70493586_2454075401496435_2591327780276797440_n.jpg?_nc_cat=102&_nc_oc=AQlhv44ncVRrDeL1Srd4434EL2uN5EAZr407oGjQuypZySUOmi4tgOVBPcPs7TkCeIc&_nc_ht=scontent.fdac12-1.fna&oh=b8d6a1972767c57aa4f572332aa8fbb6&oe=5E2E2429
     alt: "Windmill, at Kinderdijk"
