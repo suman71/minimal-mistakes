@@ -5,8 +5,8 @@ main:
   - title: "About Me"
     url: /about
   - title: "Sitemap"
-    url: /sitemap/
+    url: /sitemap
   - title: "Categories"
-    url: /categories/
+    url: /collection-archive
   - title: "Tags"
-    url: /tags/
+    url: /year-archive/
